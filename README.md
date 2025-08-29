@@ -6,4 +6,8 @@ Mucho texto mucho texto mucho texto mucho texto blah blah blah...
 >[!WARNING]
 >Puede haber un mensaje de advertencia
 
+![GitHub stars](https://img.shields.io/github/stars/JLzzz7/Prueba2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JLzzz7/Prueba2?style=social)
+![GitHub issues](https://img.shields.io/github/issues/JLzzz7/Prueba2)
+![GitHub license](https://img.shields.io/github/license/JLzzz7/Prueba2)
 
